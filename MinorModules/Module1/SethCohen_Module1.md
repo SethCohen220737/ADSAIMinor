@@ -11,6 +11,9 @@ Artificial Intelligence = Learning algorithms, a system that learns and improves
 - Shazam
 
 
+# Philosophy of Artificial Intelligence
+
+
 ## 2.2a
 
 Strong AI -> Possessing generlized intelligience on par with human recognition
@@ -32,3 +35,30 @@ B, it requires grasping of meaning. The experiment, as they say, shows that the 
 Yes and no. It still learns to some extent, although the definition of learning might be quite different from what we would expect.
 However, it is more a simulated learning/understanding, it doesnt improve and grasp the meaning of what it is learning.
 
+
+# 3. Information Literacy
+
+## 3a 
+
+AI NPCs in Games
+
+## 3b
+
+Scholarly Source: https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1996.pdf
+
+Popular Source: https://inworld.ai/blog/ai-npcs-and-the-future-of-video-games
+
+
+## 3c
+
+Overall, the pretty stark difference is the way the paper is written. The scholarly paper had a questioning undertone, while the popular source is very confident and certain. 
+
+There are no sources mentioned in the Popular Source, it is also shorter, more concise and frankly an 'easier read'. 
+
+## 3e
+
+- Added quotation marks 
+- Mention the author; 'As Turing said...'
+- In-text citations/Reference List
+
+## 3f
