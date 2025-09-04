@@ -55,6 +55,29 @@ Overall, the pretty stark difference is the way the paper is written. The schola
 
 There are no sources mentioned in the Popular Source, it is also shorter, more concise and frankly an 'easier read'. 
 
+## 3d
+
+### Scholarly Source:
+
+**In-Text Citation**
+
+(Świechowski & Ślęzak, 2025)
+
+**Bibliography Citation**
+
+Świechowski, M., & Ślęzak, D. (2025). The Many Challenges of Human-Like Agents in Virtual Game Environments. Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), 1996. https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1996.pdf
+ifaamas.org
+
+### Popular Source:
+
+**In-Text Citation**
+
+(Inworld AI, 2025)
+
+**Bibliography Citation**
+
+Inworld AI. (2025). AI NPCs and the future of gaming. https://inworld.ai/blog/ai-npcs-and-the-future-of-video-games
+
 ## 3e
 
 - Added quotation marks 
@@ -62,3 +85,45 @@ There are no sources mentioned in the Popular Source, it is also shorter, more c
 - In-text citations/Reference List
 
 ## 3f
+- 1st pass, is to get a general idea of the paper, by reading the title, headings, and conclusion. 
+
+- 2nd pass, is to skim through it, look at figures and highlight relevant unread references for the future
+
+- 3rd pass, is to basically read the paper properly and fully understand what its about
+
+## 3g
+
+*(ChatGPT-5 mini, Enterprise, 04-09-2025)
+Using ChatGPT-5 mini, I generated a concise summary of the scholarly article to identify the key challenges of human-like agents in virtual game environments.*
+
+**Summary:**
+
+The paper "The Many Challenges of Human-Like Agents in Virtual Game Environments" by Świechowski and Ślęzak (2025) discusses the complexities of creating AI agents that mimic human behavior in video games. It identifies 13 key challenges, including the diversity of human playstyles and the need for agents to exhibit imperfections. The authors also present an empirical study using a deep recurrent convolutional neural network to distinguish human players from bots in a tactical video game, highlighting the difficulty in creating truly human-like AI.
+ACM Digital Library
++1
+Moonlight
+arXiv
++2
+arXiv
++2
+
+**Citation:**
+
+Świechowski, M., & Ślęzak, D. (2025). The Many Challenges of Human-Like Agents in Virtual Game Environments. arXiv. https://arxiv.org/abs/2505.20011
+arXiv
++2
+Moonlight
++2
+
+## 3f
+
+*(ChatGPT-5 mini, Enterprise, 04-09-2025)
+Using ChatGPT-5 mini, I generated a concise summary of the article to explain the main concepts and challenges of human-like agents in virtual game environments.*
+
+**Text (max 100 words):**
+
+Human-like agents in virtual game environments aim to replicate the behaviors and decision-making of real players. Creating such agents is challenging due to the diversity of human playstyles, the need for unpredictability, and the requirement to exhibit imperfections. Machine learning and deep neural networks can model certain patterns, but distinguishing genuine human behavior from AI remains complex. Effective design requires careful consideration of adaptability, learning, and interaction within dynamic game settings. These agents are crucial for testing game mechanics, enhancing player experience, and advancing research in artificial intelligence. (ChatGPT-5 mini, Enterprise, 04-09-2025)
+
+**Citation:**
+
+Świechowski, M., & Ślęzak, D. (2025). The Many Challenges of Human-Like Agents in Virtual Game Environments. arXiv. https://arxiv.org/abs/2505.20011
